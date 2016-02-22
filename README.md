@@ -60,16 +60,6 @@ Generates a function export template.
 #### Return
 - **String** The rendered template.
 
-### `${name}(a, b)`
-${desc || "Sample description"}
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
