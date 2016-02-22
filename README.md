@@ -14,7 +14,7 @@ $ npm i --save js-templates.function-export
 const functionExport = require("js-templates.function-export");
 
 console.log(functionExport("foo"));
-// "use strict"
+// "use strict";
 //
 // /**
 //  * foo
@@ -31,7 +31,7 @@ console.log(functionExport("foo"));
 // };
 
 console.log(functionExport("bar", "Function description"));
-// "use strict"
+// "use strict";
 //
 // /**
 //  * bar
