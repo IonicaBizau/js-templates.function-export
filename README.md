@@ -66,6 +66,8 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+ - [`js-templates`](https://github.com/IonicaBizau/js-templates#readme)
+
 ## License
 
 [MIT][license] © [Ionică Bizău][website]
