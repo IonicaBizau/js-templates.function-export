@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/js-templates.function-export/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/js-templates.function-export#readme"
+  "homepage": "https://github.com/IonicaBizau/js-templates.function-export#readme",
+  "dependencies": {
+    "camelo": "^1.1.1"
+  }
 }

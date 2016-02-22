@@ -1,7 +1,7 @@
 const functionExport = require("../lib");
 
 console.log(functionExport("foo"));
-// "use strict"
+// "use strict";
 //
 // /**
 //  * foo
@@ -18,7 +18,7 @@ console.log(functionExport("foo"));
 // };
 
 console.log(functionExport("bar", "Function description"));
-// "use strict"
+// "use strict";
 //
 // /**
 //  * bar
